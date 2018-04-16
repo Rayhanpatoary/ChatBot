@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chatbotapp</string>
+    <string name="title_activity_sign_up">sign_up</string>
+    <string name="simsimi_api">cdfa4fe0-6f30-45d0-bd15-9a1d4093ff6b</string>
+</resources>
